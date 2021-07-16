@@ -1,5 +1,4 @@
-<img src="SOFTWARE DEVELOPer"/>
-[SOFTWARE DEVELOPer](https://user-images.githubusercontent.com/28973795/125936586-16e97b28-4b1d-4cac-ad10-37277210bf1e.png)
+<img src="https://user-images.githubusercontent.com/28973795/125936586-16e97b28-4b1d-4cac-ad10-37277210bf1e.png"/>
 
  <hr></hr>
 <p align="center">
