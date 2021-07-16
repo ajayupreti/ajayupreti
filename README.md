@@ -1,6 +1,6 @@
 
 <p align="center">
-     You have finally discovered my Github profile. <br>
+      <samp>You have finally discovered my Github profile. <br> </samp>
 
   <img src="https://user-images.githubusercontent.com/28973795/125937642-c1d31a2a-71ff-484b-a939-cd5cf89784e9.jpg"/>
 
