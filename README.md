@@ -10,7 +10,9 @@
 
 <p align="center">
   <samp>
-    🔥 - 🌱 I’m currently extending my skillset in `MERN Stack / Docker / GraphQL` <br>!
+    🌱 I’m currently extending my skillset in `MERN Stack / Docker / GraphQL` <br>!
+       💬 Ask me about anything, I am happy to help <br>
+
     :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	ajayupreti20194@gmail.com <br>
