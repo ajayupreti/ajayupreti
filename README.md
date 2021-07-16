@@ -9,7 +9,7 @@
 <hr></hr> <br>
 
 <p align="center">
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuffs:** <br>
 
   <samp>
     🌱 I’m currently extending my skillset in `MERN Stack / Docker / GraphQL` <br>
