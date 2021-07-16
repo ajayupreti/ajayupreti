@@ -13,8 +13,9 @@
     :art: Portfolio: https://ajayupreti.github.io <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/ajay-upreti-3915a1a1/ <br><br>
    Happy Coding! 😊
+   <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
+
   </samp>
 </p>
-<img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
 
 
