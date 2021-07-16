@@ -12,8 +12,8 @@
     :email:	ajayupreti20194@gmail.com <br>
     :art: Portfolio: https://ajayupreti.github.io <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/ajay-upreti-3915a1a1/ <br><br>
-   Happy Coding! 😊
-   <img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
+   Happy Coding! 😊 <br><br>
+   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
 
   </samp>
 </p>
