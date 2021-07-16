@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     Hi, I'm Ajay! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
+    🔥 MERN stack developer  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	ajayupreti20194@gmail.com <br>
