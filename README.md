@@ -2,7 +2,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/28973795/125936586-16e97b28-4b1d-4cac-ad10-37277210bf1e.png"/> -->
 
- <hr></hr>
+<hr></hr> <br>
 <p align="center">
   <samp>
    You have finally discovered my Github profile. <br>
@@ -17,8 +17,8 @@
   </samp>
 </p>
  <br><br>
-   <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=false" />
+ <img width="46%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=false" />
 
-   <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
+ <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
 
 
