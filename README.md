@@ -5,7 +5,7 @@
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Ajay! 👋 <br>
+   You have finally discovered my Github profile. <br>
     🔥 MERN stack developer  <br>!
     :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
