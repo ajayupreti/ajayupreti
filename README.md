@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20%20(1).png"/>
+<img src="https://avatars.githubusercontent.com/u/28973795?s=400&u=5178af344313426e343442da2e758025ea404d6f&v=4"/>
  <hr></hr>
 <p align="center">
   <samp>
