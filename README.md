@@ -1,4 +1,4 @@
-<img src="https://media-exp3.licdn.com/dms/image/C4E03AQEI9uxCVmDEGQ/profile-displayphoto-shrink_400_400/0/1599553641156?e=1631750400&v=beta&t=ImzaWM2BNaw1cj-sFFmAaWNEj0SguxQnBRQgrAoXAlY"/>
+<img src="https://www.canva.com/design/DAEkWsKvbjQ/yU9gTaJCcZTXkHS4IJCr1g/view?utm_content=DAEkWsKvbjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
  <hr></hr>
 <p align="center">
   <samp>
