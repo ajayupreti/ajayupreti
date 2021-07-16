@@ -15,7 +15,7 @@
    Happy Coding! 😊 <br><br>
    <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=false" />
 
-   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
+   <img width="49%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
 
   </samp>
 </p>
