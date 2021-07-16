@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEkWsKvbjQ/yU9gTaJCcZTXkHS4IJCr1g/view?utm_content=DAEkWsKvbjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<img src="https://www.canva.com/design/DAEkWsKvbjQ/yU9gTaJCcZTXkHS4IJCr1g/view?utm_content=DAEkWsKvbjQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"/>
  <hr></hr>
 <p align="center">
   <samp>
