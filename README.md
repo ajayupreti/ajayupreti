@@ -17,7 +17,7 @@
   </samp>
 </p>
  <br><br>
- <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=false" />
+ <img width="48%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=false" />
 
  <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api?username=ajayupreti&show_icons=true&hide_border=false" />
 
