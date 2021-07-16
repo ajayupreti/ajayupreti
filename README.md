@@ -16,5 +16,5 @@
   </samp>
 </p>
 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayupreti)]
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayupreti)
 
