@@ -9,9 +9,10 @@
 <hr></hr> <br>
 
 <p align="center">
-**Talking about Personal Stuffs:** <br>
 
   <samp>
+        
+**Talking about Personal Stuffs:** <br>
     🌱 I’m currently extending my skillset in `MERN Stack / Docker / GraphQL` <br>
        💬 Ask me about anything, I am happy to help <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
