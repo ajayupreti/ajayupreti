@@ -18,7 +18,7 @@
     :sparkles: Favorite Tech: JavaScript, React, Typescript. <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	ajayupreti20194@gmail.com <br>
-    :art: Portfolio: https://ajayupreti.github.io<br>
+    :art: Portfolio: https://ajayupreti.github.io/portfolio<br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/ajay-upreti-3915a1a1/ <br>
      📝 [Resume](https://drive.google.com/file/d/1-dsONNX5FZVjZJFyzIWdXWOeYxnXLqA3/view?usp=sharing) <br>
    Happy Coding! 😊
